@@ -91,7 +91,7 @@ test_0 (__main__.lab2out.test_0)
 [Lab 2 Output and Email Verification] ... skipped 'checked after submission. Students: ignore'
 
 ----------------------------------------------------------------------
-Ran 44 tests in 0.276s
+Ran 44 tests in 0.264s
 
 OK (skipped=1)
 OPS445 Lab Report - System Information for running ./CheckLab2.py
@@ -103,5 +103,5 @@ OPS445 Lab Report - System Information for running ./CheckLab2.py
     Python version:  3.12.3 (main, Jan 17 2025, 18:03:48) [GCC 13.3.0]
     OS Platform: linux
     Working Directory: /home/sdelgado-sanchez/ops445/lab2
-    Start at: Wed Jan 22 21:16:46 2025
+    Start at: Wed Jan 22 21:20:29 2025
 =================================================================
